@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Binance_Trader.TraderMain</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,8 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="BinanceClient.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TraderMain.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
