@@ -1,0 +1,9 @@
+{
+	"baseCurrency": "BTC",
+	"tradeCurrency": "XVG",
+	"key": "",
+	"secret": "",
+	"tradeDifference": 0.00000001,
+	"tradeProfit": 1,
+	"tradeAmount": 5
+}
