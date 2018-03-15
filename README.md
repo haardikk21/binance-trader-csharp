@@ -36,7 +36,6 @@ You are supposed to set up an API Key on Binance.com and place your `key` and `s
  - tradeDifference: The price you will under or overcut the current sellers or buyers after target has been reached
  - tradeProfit: In percentage, the target profit you want to reach. Default is 1%
  - tradeAmount: Number of coins the bot will attempt to buy/sell per burst
- - 
 # Output Sample
 ![Sample Output](https://i.imgur.com/Z10KjxJ.png)
 
